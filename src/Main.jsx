@@ -4,6 +4,11 @@ import Home from "./Home";
 import Stuff from "./Stuff";
 import Contact from "./Contact";
 
+/**
+ * Tutorial
+ * @link https://www.kirupa.com/react/creating_single_page_app_react_using_react_router.htm
+ */
+
 export default function Main() {
   return (
     <HashRouter>
